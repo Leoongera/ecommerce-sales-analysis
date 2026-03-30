@@ -1,14 +1,17 @@
-#E-commerce Sales Analysis
-Analyzing e-commerce transaction data to uncover sales trends, customer behavior, and business insights using Python.
+# E-commerce Sales Analysis
 
-##Analyzing real-world e-commerce data to uncover revenue drivers and customer behavior patterns.
+Analyzing real-world e-commerce data to uncover revenue drivers and customer behavior patterns.
 
 ## Overview
 This project analyzes real-world e-commerce transaction data to uncover sales trends, customer behavior, and revenue drivers. The goal is to extract actionable insights that can help businesses improve decision-making, optimize product strategy, and increase revenue.
 
+## Dataset
+
+This project uses a real-world e-commerce dataset containing user interactions such as views, cart additions, and purchases. The dataset includes product categories, timestamps, and pricing information, enabling analysis of customer behavior and revenue trends.
+
 ---
 
-## What I Did
+## what I Did
 - Cleaned and preprocessed a large real-world e-commerce dataset
 - Converted and handled timestamp data for time-based analysis
 - Filtered customer actions (views, carts, purchases) to focus on revenue-generating behavior
